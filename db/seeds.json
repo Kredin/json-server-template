@@ -11,8 +11,8 @@
       "id": "ac19",
       "action": "BUY",
       "ticker": "AAPL",
-      "quantity": 2,
-      "price": 100
+      "quantity": 5,
+      "price": 150
     },
     {
       "id": "ecf5",
@@ -20,34 +20,6 @@
       "ticker": "META",
       "quantity": 5,
       "price": 500
-    },
-    {
-      "id": "82f2",
-      "action": "BUY",
-      "ticker": "SCG",
-      "quantity": 5,
-      "price": 2
-    },
-    {
-      "id": "9703",
-      "action": "SELL",
-      "ticker": "META",
-      "quantity": 5,
-      "price": 515
-    },
-    {
-      "id": "ff87",
-      "action": "SELL",
-      "ticker": "AAPL",
-      "quantity": 1,
-      "price": 120
-    },
-    {
-      "id": "d430",
-      "action": "SELL",
-      "ticker": "AAPL",
-      "quantity": 1,
-      "price": 120
     }
   ],
   "positions": [
@@ -58,10 +30,16 @@
       "currentPrice": 510.85
     },
     {
-      "id": "SCG",
+      "id": "AAPL",
       "quantity": 5,
-      "totalPrice": 10,
-      "currentPrice": 3.16
+      "totalPrice": 750,
+      "currentPrice": 150
+    },
+    {
+      "id": "META",
+      "quantity": 5,
+      "totalPrice": 2500,
+      "currentPrice": 500
     }
   ]
 }
